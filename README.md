@@ -1,11 +1,11 @@
 # vue-menu
 vue实现左侧菜单导航，右侧显示内容demo
 
-# version
+## version
 vue3 vue-router4
 
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
